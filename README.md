@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Dami! 👋
 
-<!--
-**DamiTheClown/DamiTheClown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Student** dedicated to **Penetration Testing** and **Network Security**. I am actively developing my programming foundation through hands-on web projects and security labs, always looking for new challenges in the digital landscape.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Certifications
+
+#### 🐍 Programming, Scripting & OS
+*   **OpenEDG:** PCAP – Programming Essentials in Python
+*   **Cisco:** JavaScript Essentials 1
+*   **Cisco:** Linux Essentials
+
+#### 🛡️ Cybersecurity & Pentesting
+*   **Cisco:** Junior Cybersecurity Analyst Career Path
+*   **Cisco:** Introduction to Cybersecurity
+*   **TryHackMe:** Pre-Security
+*   **TryHackMe:** Web Fundamentals
+*   **TryHackMe:** Cyber Security 101
+
+#### 🌐 Networking
+*   **Cisco:** Introduction to Packet Tracer
+*   **Cisco:** CCNA – Introduction to Networks
+
+#### ⚙️ Other
+*   **Cisco:** Introduction to IoT
+*   **Cisco:** AI Fundamentals (with IBM SkillsBuild)
+*   **Cisco:** IT Essentials
+
+
+---
+
+### 🌐 My Website
+🔗 [damiankaleta.cz](https://damiankaleta.cz) *(For Czech visitors)*
